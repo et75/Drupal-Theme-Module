@@ -57,7 +57,7 @@ body.two-sidebars #sidebar-first {
 }
 
 body.custom-background {
-  background-image: url("../images/image.png");
+  background-image: url('../bartik/images/image.png');
   background-position: top left;
   background-size: 95% 95%;
   background-repeat: no-repeat;

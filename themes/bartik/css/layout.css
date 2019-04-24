@@ -98,3 +98,13 @@ body,
   width: 940px;
   min-width: 920px;
 }
+body.custom-background {
+  background-image: url('../images/image.png');
+  background-position: top left;
+  background-size: 95% 95%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-origin: padding-box;
+  background-clip: content-box;
+  background-color: #333;
+}
